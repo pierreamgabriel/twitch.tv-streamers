@@ -1,0 +1,57 @@
+.main {
+  max-width: 650px;
+  margin-top: 10px;
+}
+.twitch {
+  background-color: #4a5e82;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.twitchtitle{
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  margin-left: 10%;
+}
+.main-info {
+  max-width: 650px;
+  padding-bottom: 10px;
+  background-color: #2ecd71;
+  border-top: 1px solid white;
+}
+.img-responsive {
+  max-width: 50px;
+  margin-top: 2px;
+  border-radius: 50%;
+}
+.image {
+  width: 10%;
+}
+.name {
+  padding-top: 8px;
+  width: 90%;
+}
+.chname {
+  font-weight: bold;
+}
+.online {
+  color: green;
+}
+.status {
+  font-style: italic;
+}
+.status.name, a, a:hover {
+  text-decoration: none;
+  color: #333;
+}
+.off {
+  max-width: 650px;
+  padding-bottom: 10px;
+  background-color: #8b9b9e;
+  border-top: 1px solid white;
+}
+.copyright {
+  max-width: 650px;
+  text-align: right;
+  margin-top: 10px;
+}
