@@ -1,5 +1,3 @@
-/* This app uses a pre-established list of Twitchtv channels and shows their status as well what they're broadcasting. */
-
 $(document).ready(function() {
   
   var channels = ["ESL_SC2", "OgamingSC2", "cretetion", "freecodecamp", "storbeck", "habathcx", "RobotCaleb", "noobs2ninjas"];
